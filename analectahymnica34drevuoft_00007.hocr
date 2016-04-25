@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./analectahymnica34drevuoft_00007.png"; bbox 0 0 1655 2632; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 593 391 1187 754">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 593 391 1187 754">
+     <span class='ocr_line' id='line_1_1' title="bbox 593 391 1187 754; baseline 0 1878"><span class='ocrx_word' id='word_1_1' title='bbox 593 391 1187 754; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 778 865 1015 903">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 778 865 1015 903">
+     <span class='ocr_line' id='line_1_2' title="bbox 778 865 1015 903; baseline -0.025 -1"><span class='ocrx_word' id='word_1_2' title='bbox 778 871 835 903; x_wconf 71' lang='lat' dir='ltr'>dun</span> <span class='ocrx_word' id='word_1_3' title='bbox 857 879 878 889; x_wconf 84' lang='lat'>·</span> <span class='ocrx_word' id='word_1_4' title='bbox 902 872 924 901; x_wconf 90' lang='grc'>8</span> <span class='ocrx_word' id='word_1_5' title='bbox 952 865 1015 899; x_wconf 77' lang='lat'>1938</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 809 958 995 993">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 809 958 995 993">
+     <span class='ocr_line' id='line_1_3' title="bbox 809 958 995 993; baseline -0.027 0"><span class='ocrx_word' id='word_1_6' title='bbox 809 958 995 993; x_wconf 69' lang='lat'>10814</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
